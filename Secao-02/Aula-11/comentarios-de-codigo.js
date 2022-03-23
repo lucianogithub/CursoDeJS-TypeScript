@@ -1,0 +1,5 @@
+// Escreve um comentário
+/*
+  Bloco
+*/
+ 
