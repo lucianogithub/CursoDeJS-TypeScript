@@ -1,5 +1,6 @@
 // Escreve um comentário
+
 /*
-  Bloco
+  Escreve um Bloco
 */
  
